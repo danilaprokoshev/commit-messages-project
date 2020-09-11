@@ -11,6 +11,4 @@ As a result of the estimation technique I determined following metrics:
   5. Commit message may include reference link (URL link).
   
   
-The link to a presention of this project (on Russian):
-https://drive.google.com/file/d/18vD7IVp9k0zGPVZevxazJwOZ5TqkpoZi/view?usp=sharing.
- 
+[The link to a presention of this project (on Russian)](https://drive.google.com/file/d/18vD7IVp9k0zGPVZevxazJwOZ5TqkpoZi/view?usp=sharing).
